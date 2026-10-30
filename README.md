@@ -65,4 +65,4 @@ A: 启动器会自动在同目录下生成 `xd_launcher_config.json`，用于保
 - QQ: 3697272702
 
 ---
-*Copyright © 2024 XDLauncher. 仅供个人学习与娱乐使用，请勿用于商业用途。*
+*Copyright © 2026 XDLauncher. 仅供个人学习与娱乐使用，请勿用于商业用途。*
